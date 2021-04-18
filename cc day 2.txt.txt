@@ -1,0 +1,28 @@
+cc-weak -2
+write phyton program to ask a user name,age and telephone number and welcome the user.
+Give 2 number as input the user,find their sum and print it.
+solution:
+
+Qu 1
++print("hello his is the first coding challange of attanU)
++ username = input("Put your username:" )
+
++Age = input("Put your age")
+
++Number = input("Put your telephone number")
+
++ Print(" All entered details")
++  print(" your username:",username, "your age:" ,age," your Telephone:", number)
+
+Qu 2
+  a = input("put some number:")
+  b = input ("put some number:")
+  c = a+b
+  Print(" your total sum is:", c)
+   example= a = input(3)
+            b = input(2)
+			   c = a+b
+			   Print{"total sum is:" 5)
+
+
+
